@@ -16,7 +16,6 @@ user experience and library operations.
 - Book/resource management (add, update, delete)
 - Checkout and return tracking
 - Fine calculation and management
-- Detailed reporting and analytics
 
 ### Technologies Used
 
